@@ -1,7 +1,8 @@
-## 🚀 About Me
+## 🚀 Hi, I am Rafael!
 
 I am a full-stack web developer based in Vancouver, Canada. <br/>
 I am passionate about designing and developing new applications while solving problems.
+Background in marketing and software sales.
 
 💻 Full-Stack Web Developer <br/>
 📈 MBA in Strategic Marketing <br/>
