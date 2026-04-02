@@ -47,9 +47,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafnobrega&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafnobrega&theme=tokyonight" alt="Top Languages" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafnobrega&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafnobrega&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafnobrega&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rafnobrega&theme=tokyonight&utcOffset=-5" alt="Productive Time"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafnobrega&theme=tokyonight" alt="Profile Details"/>
 </p>
 
 ---
