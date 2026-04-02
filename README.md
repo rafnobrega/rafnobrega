@@ -47,12 +47,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafnobrega&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafnobrega&theme=tokyonight" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafnobrega&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rafnobrega&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rafnobrega&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafnobrega&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </p>
 
 ---
